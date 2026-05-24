@@ -20,5 +20,6 @@ public class Largest3 {
     c = sc.nextInt();
     Largest3 obj = new Largest3();
     obj.check(a, b, c);
+    sc.close();
   }
 }

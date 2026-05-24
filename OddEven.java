@@ -15,5 +15,6 @@ public class OddEven {
     num = sc.nextInt();
     OddEven obj = new OddEven();
     obj.check(num);
+    sc.close();
   }
 }

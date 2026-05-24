@@ -17,5 +17,6 @@ public class SumOfNum {
     num = sc.nextInt();
     SumOfNum obj = new SumOfNum();
     obj.Add(num);
+    sc.close();
   }
 }

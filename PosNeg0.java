@@ -21,5 +21,6 @@ public class PosNeg0 {
     num = sc.nextInt();
     PosNeg0 obj = new PosNeg0();
     obj.Check(num);
+    sc.close();
   }
 }
